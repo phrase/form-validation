@@ -1,3 +1,5 @@
+NOTE: this is just a fork of [kirchner/form-validation](https://github.com/kirchner/form-validation)
+
 # Form validation in elm
 
 This is a collection of functions to add form validations to your elm
